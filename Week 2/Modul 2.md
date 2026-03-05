@@ -1,11 +1,7 @@
 
 # Tugas Praktikkum Week 2 | Operasi Wireshark
 
-<p style="font-size:18px">
-Nama : Galang Herjuno Mulya<br>
-Nim : 103072430006<br>
-Kelas : IF - 04 - 01
-</p>
+
 
 ### 1. Buka Wireshark
 Buka software Wireshark, maka akan muncul tampilan beberapa pilihan seperti ini, lalu pilih jaringan yang digunakan, disini saya menggunakan wifi sebagai jaringan utama saya.<br> 
@@ -34,4 +30,7 @@ Setelah memilih opsi jaringan, disini bisa dilihat tampilan traffic jaringan yan
 
 #### Tampilan Traffic yang sudah di filter 
 
-<img src="../Assets/http shows.png" alt="Link" style="width:400px"><br></p>
+<img src="../Assets/http shows.png" alt="Link" style="width:400px"><br></p><Br>
+
+## Ends Of File
+ [Kembali ke Halaman Utama](../readme.md) 
